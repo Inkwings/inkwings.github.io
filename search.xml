@@ -9,7 +9,8 @@
         <category>Medium</category>
       </categories>
       <tags>
-        <tag>Google; UX</tag>
+        <tag>Google</tag>
+        <tag>UX</tag>
       </tags>
   </entry>
   <entry>
@@ -20,5 +21,9 @@
         <category>Reading</category>
         <category>Medium</category>
       </categories>
+      <tags>
+        <tag>Flutter</tag>
+        <tag>UI</tag>
+      </tags>
   </entry>
 </search>
